@@ -1,6 +1,7 @@
 # On amazon Linux or debian based system 
 
    1 yum install docker
+   
    2 which docker
 
 # On ubuntu system 
