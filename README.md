@@ -1,8 +1,8 @@
 # On Linux with yum and apt 
    ## if yum 
-   1 yum install docker
+    1 yum install docker
    
-   2 which docker
+    2 which docker
    
    ## if apt
     1 apt install docker
