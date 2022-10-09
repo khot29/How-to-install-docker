@@ -4,7 +4,7 @@
    
    2 which docker
 
-# On ubuntu system  -- with apt-get as a package manager
+# On ubuntu system  -- with apt as a package manager
 
    1  sudo apt-get install ca-certificates curl gnupg lsb-release
    
