@@ -1,4 +1,4 @@
-# On Linux with yum and apt 
+# with yum and apt 
    ## if yum 
     1 yum install docker
    
@@ -10,7 +10,7 @@
     2 which docker
    
 
-# On ubuntu system  
+##  
 
    1  sudo apt-get install ca-certificates curl gnupg lsb-release
    
