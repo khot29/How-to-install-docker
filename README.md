@@ -1,10 +1,16 @@
-# On amazon Linux    -- with yum as a package manager
-
+# On Linux with yum and apt 
+   ## if yum 
    1 yum install docker
    
    2 which docker
+   
+   ## if apt
+    1 apt install docker
+   
+    2 which docker
+   
 
-# On ubuntu system  -- with apt as a package manager
+# On ubuntu system  
 
    1  sudo apt-get install ca-certificates curl gnupg lsb-release
    
